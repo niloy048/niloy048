@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 I’m currently working on Python
+- 🌱 I’m currently learning javascript 
+- 🔆 I'm interest for c++ language 
+- 🚫 I'm not buy selling source code. 
+- ⚡ I'm profatonal of Python. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/niloy.ahmed.754695) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.facebook.com/niloy.ahmed.754695) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.facebook.com/niloy.ahmed.754695) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.facebook.com/niloy.ahmed.754695) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@niloyahmed2464) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ni770611@gmail.com) 
